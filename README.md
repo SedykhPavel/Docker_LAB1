@@ -12,5 +12,5 @@ docker-compose up --build
 curl http://localhost/api/v1/contact
 curl http://localhost/api/v1/group
 ```
-###Запуск без Docker
-**Можно запустить главный скрипт app.py и перейти по ссылке: http://127.0.0.1:6080
+### Запуск без Docker
+**Можно запустить главный скрипт app.py и перейти по ссылке: http://127.0.0.1:6080**
